@@ -1,2 +1,3 @@
 # Notes-Sync
-Syncing the Obisidian Valut with Github
+Syncing the Obisidian Vault with Github
+Cybersecuity Notes ( solves, attack vectors, CVEs, cheatsheets and general topics)

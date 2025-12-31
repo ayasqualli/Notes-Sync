@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LD_PRELOAD Exploitation.md",
+                "file": "Micro Storage HTB.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "LD_PRELOAD Exploitation"
+              "title": "Micro Storage HTB"
             }
           }
         ],
@@ -55,8 +55,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
+                "sortOrder": "byModifiedTime",
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -187,10 +187,17 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "5e59745dfecd6efb",
+  "active": "a89fa025335bc462",
   "lastOpenFiles": [
-    "SQLMap.md",
+    "PJ/Pasted image 20251231013448.png",
+    "README.md",
+    "PJ/Pasted image 20251231012934.png",
+    "PJ/Pasted image 20251231012837.png",
+    "PJ/Pasted image 20251231012743.png",
+    "PJ/Pasted image 20251231012909.png",
+    "Micro Storage HTB.md",
     "LD_PRELOAD Exploitation.md",
+    "SQLMap.md",
     "XSLT Injection/Attack Techniques.md",
     "XSLT Injection/XSLT Processor-Specific Attacks.md",
     "XSLT Injection/Evasion Techniques.md",
@@ -208,7 +215,6 @@
     "TensorFlow RCE.md",
     "XML External Entity Attack Payload.md",
     "Eighteen HTB.md",
-    "README.md",
     "CDNio solve.md",
     "Data (HTB Machine)/CVE-2021-43798.md",
     "Imagery HTB.md",
@@ -216,17 +222,11 @@
     "PJ/Accessing Cookies via JavaScript.pdf",
     "Untitled",
     "Cache Poisoning.md",
-    "3DES Decryption.md",
-    "ACL ( Access Control List).md",
     "PJ/Pasted image 20251201000221.png",
     "PJ/Screenshot 2025-11-30 201952.png",
     "PJ/Pasted image 20251130232346.png",
     "PJ/Pasted image 20251130134441.png",
     "PJ/Pasted image 20251130133101.png",
-    "Pasted image 20251119232657.png",
-    "Pasted image 20251120005806.png",
-    "Pasted image 20251120005903.png",
-    "PJ/Pasted image 20251119232657.png",
     "XSLT Injection.zip",
     "XSLT Injection",
     "PJ/SQL Injection Cheat Sheet - GeeksforGeeks.pdf",
