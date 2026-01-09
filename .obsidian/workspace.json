@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Escaping Restricted Shells.md",
+                "file": "Privilege Escalation/Escaping Restricted Shells.md",
                 "mode": "source",
                 "source": false
               },
@@ -199,10 +199,10 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "5f36bdb920fb9590",
+  "active": "a89fa025335bc462",
   "lastOpenFiles": [
     "Privilege Escalation/Linux Privilege Escalation Commands - HTB Academy Cheasheet.md",
-    "Escaping Restricted Shells.md",
+    "Privilege Escalation/Escaping Restricted Shells.md",
     "Privilege Escalation/Linux_Privilege_Escalation_Module_Cheat_Sheet.pdf",
     "Active Directory/ACL ( Access Control List).md",
     "Random/3DES Decryption.md",
