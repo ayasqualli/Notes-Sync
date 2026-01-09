@@ -1,3 +1,6 @@
+
+[Restricted Shell (rbash, rzsh) Bypass - Exploit Notes](https://exploit-notes.hdks.org/exploit/network/protocol/restricted-shell-bypass/)
+
 **A restricted shell** is a type of shell that limits the user's ability to execute commands. In a restricted shell, the user is only allowed to execute a specific set of commands or only allowed to execute commands in specific directories. Restricted shells are often used to provide a safe environment for users who may accidentally or intentionally damage the system or provide a way for users to access only certain system features. Some common examples of restricted shells include the `rbash` shell in Linux and the "Restricted-access Shell" in Windows.
 
 ## `RBASH`
@@ -39,4 +42,4 @@ In some cases, it may be possible to escape from a restricted shell by using com
 For escaping from a restricted shell to use environment variables involves modifying or creating environment variables that the shell uses to execute commands that are not restricted by the shell. For example, if the shell uses an environment variable to specify the directory in which commands are executed, it may be possible to escape from the shell by modifying the value of the environment variable to specify a different directory.
 
 ### Shell Functions
-In some cases, it may be possible to escape from a restricted shell by using shell functions. For this we can define and call shell functions that execute commands not restricted by the shell. Let us say, the shell allows users to define and call shell functions, it may be possible to escape from the shell by defining a shell function that executes a command.
+In some cases, it may be possible to escape from a restricted shell by using shell functions. For this we can define and call shell functions that execute commands not restricted by the shell. Let us say, the shell allows users to define and call shell functions, it may be possible to escape from the shell by defining a shell function that executes a command.[Restricted Shell (rbash, rzsh) Bypass - Exploit Notes](https://exploit-notes.hdks.org/exploit/network/protocol/restricted-shell-bypass/)[Restricted Shell (rbash, rzsh) Bypass - Exploit Notes](https://exploit-notes.hdks.org/exploit/network/protocol/restricted-shell-bypass/)

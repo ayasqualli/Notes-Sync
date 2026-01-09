@@ -39,12 +39,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Privilege Escalation/Escaping Restricted Shells.md",
+                "file": "Challenges Solutions/Compressor HTB.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Escaping Restricted Shells"
+              "title": "Compressor HTB"
             }
           }
         ],
@@ -199,12 +199,13 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "a89fa025335bc462",
+  "active": "5f36bdb920fb9590",
   "lastOpenFiles": [
+    "CVEs/CVE-2020-7384.md",
+    "Active Directory/ACL ( Access Control List).md",
+    "Privilege Escalation/Linux_Privilege_Escalation_Module_Cheat_Sheet.pdf",
     "Privilege Escalation/Linux Privilege Escalation Commands - HTB Academy Cheasheet.md",
     "Privilege Escalation/Escaping Restricted Shells.md",
-    "Privilege Escalation/Linux_Privilege_Escalation_Module_Cheat_Sheet.pdf",
-    "Active Directory/ACL ( Access Control List).md",
     "Random/3DES Decryption.md",
     "Privilege Escalation/LD_PRELOAD Exploitation.md",
     "Privilege Escalation/Automated Enumeration Tools.md",
@@ -219,7 +220,6 @@
     "Machines Solutions/Eighteen HTB.md",
     "CVEs/CVE-2025-24071.md",
     "CVEs/CVE-2024-28397.md",
-    "CVEs/CVE-2020-7384.md",
     "CVEs/CVE-2022-24439 PoC.md",
     "Cheatsheets/cURL.md",
     "Cheatsheets/SQL Injection.md",
@@ -227,7 +227,6 @@
     "Challenges Solutions/xorxorxorxor HTB.md",
     "Challenges Solutions/Locked Away HTB.md",
     "Challenges Solutions/Compressor HTB.md",
-    "Random/Cache Poisoning.md",
     "Active Directory",
     "Privilege Escalation",
     "PJ/Reverse Shell Cheat Sheet _ pentestmonkey.pdf",
