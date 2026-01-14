@@ -53,10 +53,12 @@ We will use gdb for the dynamic analysis
 ![[Pasted image 20251120012921.png]]
 
 We add a breakpoint in the `atoi` call to see how the input gets compared
-![[Pasted image 20251120013352.png
+![[Pasted image 20251120013352.png]]
 
 In line +34 we see that we compare the input with `ebp-0xc` with out initial input from `eax` 
-We can calculate the address to it then dump its content![[Pasted image 20251120013718.png]]
+
+We can calculate the address to it then dump its content
+![[Pasted image 20251120013718.png]]
 We found the pin 
 
 ![[Pasted image 20251120013921.png]]
