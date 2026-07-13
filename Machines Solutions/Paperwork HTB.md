@@ -92,8 +92,8 @@ data = os.pread(admin_fd, 1024, 0)
 print("admin_pins.conf contents:", data.decode(errors="ignore"))
 ```
 
-![](Pasted%20image%2020260713200648.png)
+![](../Attachements/Pasted%20image%2020260713200648.png)
 
 
 Using the found password we connect to root:
-![](Pasted%20image%2020260713200804.png)
+![](../Attachements/Pasted%20image%2020260713200804.png)
